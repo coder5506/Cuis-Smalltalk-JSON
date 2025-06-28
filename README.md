@@ -9,3 +9,11 @@ Also provides one extension method `Object>>asJsonObject` to convert an object t
 because that is sometimes more convenient than serializing directly to JSON.
 
 That's it.
+
+## License
+
+[MIT License](LICENSE)
+
+## Dependencies
+
+[Cuis-Smalltalk-Unicode](https://github.com/coder5506/Cuis-Smalltalk-Unicode)
