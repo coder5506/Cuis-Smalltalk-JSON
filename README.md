@@ -16,4 +16,4 @@ That's it.
 
 ## Dependencies
 
-[Cuis-Smalltalk-Unicode](https://github.com/coder5506/Cuis-Smalltalk-Unicode)
+- [Cuis-Smalltalk-Unicode](https://github.com/coder5506/Cuis-Smalltalk-Unicode)

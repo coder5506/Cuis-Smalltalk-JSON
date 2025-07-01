@@ -1,7 +1,7 @@
 'From Cuis7.5 [latest update: #7279] on 24 June 2025 at 11:21:08 am'!
 'Description '!
 !provides: 'Tests-JSON' 1 7!
-!requires: 'JSON' 1 29 nil!
+!requires: 'JSON' 1 30 nil!
 SystemOrganization addCategory: #'Tests-JSON'!
 
 
