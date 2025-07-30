@@ -1,7 +1,6 @@
-'From Cuis7.5 [latest update: #7279] on 28 June 2025 at 2:17:37 pm'!
+'From Cuis7.3 [latest update: #7248] on 30 July 2025 at 6:03:16 am'!
 'Description '!
-!provides: 'JSON' 1 30!
-!requires: 'Cuis-Base' 60 5557 nil!
+!provides: 'JSON' 1 31!
 !requires: 'Unicode' 1 6 nil!
 SystemOrganization addCategory: #JSON!
 
